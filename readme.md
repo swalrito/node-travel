@@ -3,5 +3,5 @@
 1.给脚本修改权限    
 /travel/bin $chmod 755 traveldir    
 2.npm link    
-/travel/npm link    
+/travel/ $npm link    
 3.在任意位置终端输入traveldir path(遍历目录) 即可运行    
