@@ -1,0 +1,6 @@
+{
+    "name": "dir-travel",
+    "bin": {
+        "travel": "./bin/traveldir"
+    }
+}
